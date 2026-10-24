@@ -1,0 +1,6 @@
+{
+  "name": "Tailoring Shop ERP & Accounting System",
+  "description": "Premium Tailoring Shop Management, Sales, Expense & Accounting System with multi-sheet Excel export, automatic invoice generation, payment tracking, and financial reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
